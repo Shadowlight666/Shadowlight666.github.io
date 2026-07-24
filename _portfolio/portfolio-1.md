@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "CMoE"
+excerpt: "Contrastive Mixture of Experts for Motion Control and Terrain Adaptation of Humanoid Robots."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+使用对比学习和混合专家模型，研究人形机器人的运动控制与复杂地形适应。
+
+[在 GitHub 上查看](https://github.com/Shadowlight666/CMoE)

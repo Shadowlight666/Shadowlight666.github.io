@@ -41,3 +41,24 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Personal homepage refinements */
+.page__title { letter-spacing: -0.02em; }
+
+.page__content h2 {
+  margin-top: 2.25em;
+  padding-bottom: 0.35em;
+  border-bottom: 1px solid rgba(127, 127, 127, 0.18);
+}
+
+.page__content h3 { margin-top: 1.75em; }
+
+.author__avatar img {
+  border: 3px solid rgba(255, 255, 255, 0.85);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+.btn {
+  margin: 0.25rem 0.35rem 0.25rem 0;
+  border-radius: 999px;
+}
