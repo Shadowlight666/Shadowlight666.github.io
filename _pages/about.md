@@ -43,11 +43,21 @@ Rhythm 是首个实现真实世界双人形机器人复杂交互式全身控制�
 
 ### CMoE
 
-**Contrastive Mixture of Experts for Motion Control and Terrain Adaptation of Humanoid Robots**
+<figure class="project-figure">
+  <a href="https://arxiv.org/abs/2603.03067">
+    <img src="/images/projects/cmoe-overview.webp" alt="CMoE 控制 Unitree G1 跨越台阶、沟槽、障碍并适应复杂地形">
+  </a>
+  <figcaption>CMoE 在 Unitree G1 上的复杂地形运动控制与真实机器人实验。</figcaption>
+</figure>
 
-探索使用对比学习与混合专家模型提升人形机器人运动控制和地形适应能力。
+**ICRA 2026** · **Shihao Ma**, Hongjin Chen, Zijun Xu, Yi Zhao, Ke Wu, Ruichen Yang, Leyao Zou, Zhongxue Gan, Wenchao Ding
 
-[查看 CMoE 项目 →](https://github.com/Shadowlight666/CMoE){: .btn .btn--primary}
+**CMoE: Contrastive Mixture of Experts for Motion Control and Terrain Adaptation of Humanoid Robots**
+
+CMoE 将对比学习引入混合专家模型，使不同专家针对特定地形形成专门能力。单一策略可驱动 Unitree G1 在复杂混合地形中连续运动，跨越最高 20 cm 的连续台阶、最宽 80 cm 的沟槽和 30 cm 的障碍物。
+
+[论文 →](https://arxiv.org/abs/2603.03067){: .btn .btn--primary}
+[代码 →](https://github.com/Shadowlight666/CMoE){: .btn}
 
 ### Elevation Mapping for Humanoid Robots
 
