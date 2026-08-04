@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "zh-CN"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "马世豪 | Shih-Hao Ma"
+title                    : "马世豪 | Shihao Ma"
 title_separator          : "-"
 name                     : &name "马世豪"
-description              : &description "马世豪的个人学术主页：人形机器人、运动控制与强化学习。"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Shihao Ma（马世豪）的个人学术主页：人形机器人、运动控制与强化学习。"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://shadowlight666.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,13 +24,13 @@ repository               : "Shadowlight666/Shadowlight666.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "马世豪"
+  name             : "马世豪 / Shihao Ma"
   pronouns         : # example: "she/her"  
   bio              : "Robotics · Humanoid Motion Control · Reinforcement Learning"
   location         : "上海"
   employer         : "复旦大学"
   uri              : # URL
-  email            :
+  email            : "23210860107@m.fudan.edu.cn"
 
   # Academic websites
   academia         : # URL
