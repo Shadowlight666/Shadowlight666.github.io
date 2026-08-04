@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-我目前在 **复旦大学** 学习与研究，关注人形机器人在复杂环境中的自主运动能力。我的工作兴趣位于机器人学、运动控制和机器学习的交叉点，希望让机器人能够更稳定、更自然地感知环境并完成全身运动。
+我叫 **马世豪（Shihao Ma）**。硕士期间，我在 **复旦大学** 学习与研究，师从 **丁文超老师** 和 **甘中学老师**。我关注人形机器人在复杂环境中的自主运动能力，工作兴趣位于机器人学、运动控制和机器学习的交叉点，希望让机器人能够更稳定、更自然地感知环境并完成全身运动。
 
 我的研究兴趣
 ======
@@ -19,6 +19,27 @@ redirect_from:
 
 代表项目
 ======
+
+### Rhythm: Learning Interactive Whole-Body Control for Dual Humanoids
+
+<figure class="project-figure">
+  <a href="https://hoshi-no-ai.github.io/Rhythm/">
+    <img src="/images/projects/rhythm-teaser.webp" alt="Rhythm 双人形机器人交互式全身控制演示，包括问候、拥抱与协同舞蹈">
+  </a>
+  <figcaption>双人形机器人在真实环境中的接触式交互与协同运动。</figcaption>
+</figure>
+
+**RSS 2026** · Hongjin Chen\*, Wei Zhang\*, Pengfei Li\*, **Shihao Ma**, et al.
+
+Rhythm 是首个实现真实世界双人形机器人复杂交互式全身控制的统一框架。它结合交互感知运动重定向（IAMR）、交互引导强化学习（IGRL）与真实机器人部署，使 Unitree G1 能够完成问候、拥抱和协同舞蹈等动作。
+
+[项目主页 →](https://hoshi-no-ai.github.io/Rhythm/){: .btn .btn--primary}
+[论文 →](https://arxiv.org/abs/2603.02856){: .btn}
+[演示视频 →](https://youtu.be/aq5mVu8MB0s){: .btn}
+
+<div class="video-embed">
+  <iframe src="https://www.youtube-nocookie.com/embed/aq5mVu8MB0s" title="Rhythm: Learning Interactive Whole-Body Control for Dual Humanoids" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ### CMoE
 
@@ -44,4 +65,4 @@ redirect_from:
 联系我
 ======
 
-如果你对人形机器人、强化学习或相关合作感兴趣，欢迎通过 [GitHub](https://github.com/Shadowlight666) 与我联系。
+如果你对人形机器人、强化学习或相关合作感兴趣，欢迎通过邮件 [23210860107@m.fudan.edu.cn](mailto:23210860107@m.fudan.edu.cn) 或 [GitHub](https://github.com/Shadowlight666) 与我联系。
